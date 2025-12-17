@@ -9,9 +9,9 @@ This repository represents **what I worked on during the graduation project** fo
 
 # 📌What I worked on
 
-### 1. Manual Testing
+## 1. Manual Testing
    
-**A. Login Functionality – OpenCart**
+### A. Login Functionality – OpenCart
 
    Tested valid login, invalid login & empty fields.
    
@@ -22,7 +22,7 @@ This repository represents **what I worked on during the graduation project** fo
    Covered navigation to login page from homepage, logging out & refreshing page.
    
    
- **B.Currency Selection – OpenCart**
+ ### B.Currency Selection – OpenCart
     
    Verified available currencies. 
    
@@ -32,7 +32,7 @@ This repository represents **what I worked on during the graduation project** fo
     
 
 
-### 2. API Testing
+## 2. API Testing
    (Automation Exercise)
    
    API 7: POST To Verify Login with valid details.
@@ -45,10 +45,10 @@ This repository represents **what I worked on during the graduation project** fo
 
    
    
-### 3. Automation Testing
+## 3. Automation Testing
    (Automation Exercise)
    
-   **A. Page Object Model (POM) with TestNG**
+   ### A. Page Object Model (POM) with TestNG
    
    Test Case 2: Login User with correct email and password.
    
@@ -65,7 +65,7 @@ This repository represents **what I worked on during the graduation project** fo
    Test Case 23: Verify address details in checkout page.
    
 
-   **B. BDD Automation using Cucumber**
+   ### B. BDD Automation using Cucumber
     
    Test Case 2: Login User with correct email and password.
    
@@ -73,8 +73,8 @@ This repository represents **what I worked on during the graduation project** fo
 
 
    
-### 4. DataBase Testing
-  **Key Areas I Tested**
+## 4. DataBase Testing
+  ### Key Areas I Tested
   
    User data validation in DB.
    
