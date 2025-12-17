@@ -74,7 +74,7 @@ This repository represents **what I worked on during the graduation project** fo
    Test Case 3: Login User with incorrect email and password.
 
 
-   Both approaches were used to demonstrate flexibility and understanding of different automation strategies.
+**Both approaches were used to demonstrate flexibility and understanding of different automation strategies.**
 
 
    
