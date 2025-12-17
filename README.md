@@ -130,3 +130,10 @@ Used Jira boards to organize workflow (To Do → In Progress → Done)
 Performance testing was conducted as an **additional, bonus** beyond the original graduation project requirements, with the goal of gaining hands-on experience and deeper understanding of performance testing concepts.
 
 
+## 👤 Author
+**Aya**  
+Junior Software Tester  
+Skills: Manual Testing | API Testing | Automation Testing | Jira
+
+
+
