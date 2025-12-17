@@ -21,6 +21,7 @@ This repository represents **what I worked on during the graduation project** fo
    
    Covered navigation to login page from homepage, logging out & refreshing page.
    
+   
  **B.Currency Selection – OpenCart**
     
    Verified available currencies. 
@@ -29,6 +30,7 @@ This repository represents **what I worked on during the graduation project** fo
    
    Checked functionality works correctly in cart page, product details page & search page.
     
+
 
 ### 2. API Testing
    (Automation Exercise)
@@ -40,6 +42,7 @@ This repository represents **what I worked on during the graduation project** fo
    API 9: DELETE To Verify Login.
    
    API 10: POST To Verify Login with invalid details.
+
    
    
 ### 3. Automation Testing
@@ -67,6 +70,7 @@ This repository represents **what I worked on during the graduation project** fo
    Test Case 2: Login User with correct email and password.
    
    Test Case 3: Login User with incorrect email and password.
+
 
    
 ### 4. DataBase Testing
