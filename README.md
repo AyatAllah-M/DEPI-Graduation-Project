@@ -124,6 +124,18 @@ Attached screenshots for failed test cases
 Used Jira boards to organize workflow (To Do → In Progress → Done)
 
 
+# 📌 Links for Test Cases
+### 1. Manual Test Cases
+https://docs.google.com/spreadsheets/d/1SDne0OBvFjgFP7eTKJr0lesgsHsbeQHU/edit?usp=sharing&ouid=116801215639288131553&rtpof=true&sd=true
+
+
+### 2. API Test Cases
+https://docs.google.com/spreadsheets/d/1467zlAzaO1mwUAwkSKVG4NDn4TfejR3P/edit?usp=drive_link&ouid=116801215639288131553&rtpof=true&sd=true
+
+
+### 3. Database Test Cases
+https://docs.google.com/spreadsheets/d/1ehogA7IC5VLXQs7aYXTlfTtO76goiNb2/edit?usp=sharing&ouid=116801215639288131553&rtpof=true&sd=true
+
 
 ## 🚀 Performance Testing (Additional)
 
