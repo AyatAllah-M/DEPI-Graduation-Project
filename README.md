@@ -1,4 +1,4 @@
-📌 # Project Overview
+# 📌 Project Overview
 
 This project documents testing for OpenCart website https://demo.opencart.com/ and Automation Exercise website https://automationexercise.com/.  
 The goal is to testing techniques covered in DEPI software testing track. 
@@ -6,8 +6,8 @@ We worked on OpenCart for manual testing and database testing. We used Automatio
 
 This repository represents what I worked on during the graduation project for DEPI.
 
-📌What I worked on
-1. Manual Testing
+# 📌What I worked on
+### 1. Manual Testing
    
   A. Login Functionality – OpenCart
    Tested valid login, invalid login & empty fields.
@@ -21,7 +21,7 @@ This repository represents what I worked on during the graduation project for DE
     Checked functionality works correctly in cart page, product details page & search page.
     
 
-2. API Testing
+### 2. API Testing
    (Automation Exercise)
     API 7: POST To Verify Login with valid details
     API 8: POST To Verify Login without email parameter
@@ -29,7 +29,7 @@ This repository represents what I worked on during the graduation project for DE
     API 10: POST To Verify Login with invalid details.
    
    
-4. Automation Testing
+### 3. Automation Testing
   (Automation Exercise)
    A. Page Object Model (POM) with TestNG
     Test Case 2: Login User with correct email and password
@@ -45,7 +45,7 @@ This repository represents what I worked on during the graduation project for DE
     Test Case 3: Login User with incorrect email and password
 
    
-4. DataBase Testing
+### 4. DataBase Testing
   Key Areas I Tested
     User data validation in DB
     Password case sensitivity
@@ -56,7 +56,7 @@ This repository represents what I worked on during the graduation project for DE
     Correct currency conversion
     Prices update across system
 
-📌 Tools & Technologies
+# 📌 Tools & Technologies
 
   Excel (Test Cases & Bug report)
   Jira (Issue tracking, assigning tasks, documenting bugs)
@@ -65,7 +65,7 @@ This repository represents what I worked on during the graduation project for DE
   JMeter (preformance testing)
 
 
-📌 Jira Board
+# 📌 Jira Board
 
 https://wnbaldwy-team-x10t7voa.atlassian.net/jira/software/c/projects/GP/boards/2?visitedUserSeg=true
 
@@ -74,7 +74,7 @@ Attached screenshots for failed test cases
 Used Jira boards to organize workflow (To Do → In Progress → Done)
 
 
-🚀 Performance Testing (Additional)
+## 🚀 Performance Testing (Additional)
 
 Performance testing was conducted as an **additional, bonus** beyond the original graduation project requirements, with the goal of gaining hands-on experience and deeper understanding of performance testing concepts.
 
