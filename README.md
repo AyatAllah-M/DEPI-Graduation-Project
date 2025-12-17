@@ -11,20 +11,20 @@ This repository represents what I worked on during the graduation project for DE
 
 ### 1. Manual Testing
    
-  A. Login Functionality – OpenCart
+ ####  A. Login Functionality – OpenCart
    Tested valid login, invalid login & empty fields.
    Verified error messages.
    Checked input validation (email format, case sensitivity).
    Covered navigation to login page from homepage, logging out & refreshing page.
    
-  B.Currency Selection – OpenCart
+ ####  B.Currency Selection – OpenCart
     Verified available currencies.
     Ensured currency selection persists during navigation.
     Checked functionality works correctly in cart page, product details page & search page.
     
 
 ### 2. API Testing
-   (Automation Exercise)
+   #### (Automation Exercise)
     API 7: POST To Verify Login with valid details
     API 8: POST To Verify Login without email parameter
     API 9: DELETE To Verify Login
