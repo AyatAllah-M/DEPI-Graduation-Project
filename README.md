@@ -1,4 +1,4 @@
-📌 Project Overview
+📌 # Project Overview
 
 This project documents testing for OpenCart website https://demo.opencart.com/ and Automation Exercise website https://automationexercise.com/.  
 The goal is to testing techniques covered in DEPI software testing track. 
