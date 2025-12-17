@@ -1,12 +1,14 @@
 # 📌 Project Overview
 
-This project documents testing for OpenCart website https://demo.opencart.com/ and Automation Exercise website https://automationexercise.com/.  
+This project documents testing for OpenCart website https://demo.opencart.com/ and Automation Exercise website https://automationexercise.com/.
+
 The goal is to testing techniques covered in DEPI software testing track. 
 We worked on OpenCart for manual testing and database testing. We used Automation exercise for automation testing, API testing and preformance testing.
 
 This repository represents what I worked on during the graduation project for DEPI.
 
 # 📌What I worked on
+
 ### 1. Manual Testing
    
   A. Login Functionality – OpenCart
